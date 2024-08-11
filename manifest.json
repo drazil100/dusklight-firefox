@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Dusklight",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(5, 46, 81)",
+      "toolbar_text": "rgb(153, 223, 255)",
+      "frame": "rgb(7, 9, 33)",
+      "tab_background_text": "rgb(153, 223, 255)",
+      "toolbar_field": "rgb(28, 65, 97)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 128, 0)",
+      "popup": "rgb(5, 46, 81)",
+      "popup_text": "rgb(153, 223, 255)",
+      "icons": "rgb(255, 128, 0)",
+      "ntp_background": "rgb(4, 20, 46)",
+      "ntp_text": "rgb(153, 223, 255)",
+      "sidebar_text": "rgb(153, 223, 255)",
+      "sidebar": "rgb(4, 20, 46)",
+      "tab_loading": "rgb(255, 128, 0)"
+    }
+  }
+}
